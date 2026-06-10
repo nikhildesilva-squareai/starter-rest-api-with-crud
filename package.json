@@ -1,0 +1,13 @@
+{
+  "name": "starter-rest-api-with-crud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test tests/"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
